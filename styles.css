@@ -1,5 +1,27 @@
-/*  your css code here. If applicable */
-.body{
+:root{
+	background-color:grey;
+}
+.testimonial1{
+	 font-style: normal;
+	background-color:white;
+	height:100px;
+	width:800px;
+	padding:20px
+	border:2px;
 	
-	color:black;
+}
+.testimonial2{
+	 font-style: normal;
+	background-color:white;
+	height:100px;
+	width:800px;
+	padding:20px
+	border:2px;
+	
+}
+.author{
+	font-style: italic;
+	padding-right:10px;
+
+	text-align:right;
 }
